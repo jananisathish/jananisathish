@@ -1,20 +1,25 @@
 DAY 1
 
-sorting
 armstrong
-composite num
-largest 3 numbers
-mean,medan,mod
-factor
+composite
+factors
+multiplycation and division
+lcm and gcd
 palindrome
-perfect num
-removing from array
-reverse the word
+perfect number using class
+perfect number
+remove duplicates
+reverse of a string
 sum of digits
 voting
-LCM and GCD
+greatest of three
+mean median and mode
+Random
+sorting
+armstrong
+
 
 *compiled in devc++
 
 Total programs:15
-completed programs:13
+completed programs:15
